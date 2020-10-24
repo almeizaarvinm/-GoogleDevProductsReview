@@ -1,4 +1,4 @@
-# -GoogleDevProductsReview
+# -GoogleDevProductsReview : Selengkapnya terdapat pada file Review.html
 
 Almeiza Arvin Muzaki
 ITB
